@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jinhan Shi
+- 👀 I’m interested in @AI，ML,DL,Game Development
+- 🌱 I’m currently learning @NLP and 3D Game development
+- 💞️ I’m looking to collaborate on @Game Development
+- 📫 How to reach me @lightingyang233@gmail.com
